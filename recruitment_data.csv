@@ -1,0 +1,19 @@
+Count of Gender,Education Level,,,,,,,,Column Labels,,,,,,,
+Gender,Bachelor's Degree,High School,Master's Degree,PhD,Grand Total,,,,Sum of Desired Salary,,,Count of Desired Salary2,,,Total Sum of Desired Salary,Total Count of Desired Salary2
+Female,265,234,243,225,967,,,Row Labels,Female,Male,Other,Female,Male,Other,,
+Male,260,267,248,255,1030,,,Applied,13012199.97,13872414.95,13597765.24,196,204,211,40482380.16,611
+Other,260,237,245,261,1003,,,In Review,12574451.21,13117950.31,12397851.33,196,200,199,38090252.85,595
+Grand Total,785,738,736,741,3000,,,Interviewing,12112190.29,12955939.23,13546017.19,189,197,204,38614146.71,590
+,,,,,,,,Offered,13388462.8,14257821.04,12455585.79,201,217,192,40101869.63,610
+,,,,,,,,Rejected,12075018.71,13465596.96,12407907.66,185,212,197,37948523.33,594
+,,,,,,,,Grand Total,63162322.98,67669722.49,64405127.21,967,1030,1003,195237172.7,3000
+Years of Experience,20,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Count of Status,Column Labels,,,,,,,,,,,,,,,
+Row Labels,Bachelor's Degree,High School,Master's Degree,PhD,Grand Total,,,,,,,,,,,
+Applied,6,11,11,1,29,,,,,,,,,,,
+In Review,4,6,7,4,21,,,,,,,,,,,
+Interviewing,4,8,4,9,25,,,,,,,,,,,
+Offered,6,8,10,10,34,,,,,,,,,,,
+Rejected,7,10,5,10,32,,,,,,,,,,,
+Grand Total,27,43,37,34,141,,,,,,,,,,,
